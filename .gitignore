@@ -1,8 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Go template
+# Mac OS X files
+.DS_Store
+
 # Binaries for programs and plugins
 *.exe
-*.exe~
 *.dll
 *.so
 *.dylib
@@ -13,4 +13,5 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-.idea
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
